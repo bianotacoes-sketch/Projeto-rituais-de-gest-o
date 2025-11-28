@@ -1,0 +1,1 @@
+"projeto de se colocar rituais de gestão de rubrica em uam tela detalhe com uam automação de todas as rubricas que estouraram em que o responsável , preencha o plano de ação para o estouro"
